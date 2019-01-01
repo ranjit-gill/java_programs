@@ -9,6 +9,8 @@ public class StringComparison {
 		// TODO Auto-generated method stub
 		String string1 = "Hello World";
 		String string2 = "hello world";
+		Object object1  = string1;
+		
 		
 	}
 
