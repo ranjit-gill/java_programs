@@ -11,7 +11,9 @@ public class StringComparison {
 		String string2 = "hello world";
 		Object object1  = string1;
 		
-		
+		System.out.println(string1.compareTo(string2));
+		System.out.println(string1.compareToIgnoreCase(string2));
+		System.out.println(string1.compareTo(object1.toString()));
 	}
 
 }
