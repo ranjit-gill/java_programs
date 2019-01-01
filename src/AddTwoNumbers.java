@@ -7,7 +7,7 @@ public class AddTwoNumbers {
 		int a = 10;
 		int b = 16;
 		int c = a + b;
-		System.out.println("The Sum of two numbers "+ a + " and " + b + " is "+c);
+		System.out.println("The Sum of two numbers "+ a + " and " + b + " is "+ c);
 	}
 
 }
